@@ -67,7 +67,7 @@ do_check(){
 
 do_install(){
     local INSTALL_PATH="$1";local SH="$2"
-	local DOWN_URL="https://codeload.github.com/zwmscorm/sharealiddns/tar.gz/master"
+	local DOWN_URL="https://codeload.github.com/xulawyer1982/sharealiddns/tar.gz/master"
 	local TMP_PATH="/tmp/sharealiddns-master"
 	local TAR_GZ="$TMP_PATH.tar.gz"
 	local SCRIPTS_PATH=""
